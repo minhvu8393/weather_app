@@ -1,0 +1,26 @@
+.container {
+    margin: 4%;
+}
+
+.input {
+    width: 70%;
+    height: 40px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    border: 0.1px solid rgb(170, 170, 170, 0.5);
+}
+
+.btn {
+    width: 70px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    border: 0px;
+
+}
+
+.btn:active {
+    background-color: green;
+    border: 0px;
+}
